@@ -1,22 +1,22 @@
 {
-    "name": "gitbook-plugin-katex",
+    "name": "honkit-plugin-katex",
     "description": "Math typesetting using KaTex into GitBook",
     "main": "index.js",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "engines": {
         "gitbook": ">=2.0.0"
     },
-    "homepage": "https://github.com/GitbookIO/plugin-katex",
+    "homepage": "https://github.dev/zimmem/honkit-plugin-katex",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/plugin-katex.git"
+        "url": "https://github.dev/zimmem/honkit-plugin-katex.git"
     },
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/GitbookIO/plugin-katex/issues"
+        "url": "https://github.dev/zimmem/honkit-plugin-katex/issues"
     },
     "dependencies": {
-        "katex": "0.7.1"
+        "katex": "0.13.19"
     },
     "keywords": ["math", "latex"]
 }

@@ -18,5 +18,8 @@
     "dependencies": {
         "katex": "0.13.19"
     },
-    "keywords": ["math", "latex"]
+    "keywords": [
+        "math",
+        "latex"
+    ]
 }
